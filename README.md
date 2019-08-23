@@ -2,6 +2,4 @@
 
 Miscellaneous curriculum documents.
 
-If you would like any documents added to this repository, please email me a link (or the document).
-
-To reach me with any requests, please email me at <pbeens@gmail.com>.
+If you would like me to add any documents to this repository, please [email me](pbeens@gmail.com) a link (or the document).
