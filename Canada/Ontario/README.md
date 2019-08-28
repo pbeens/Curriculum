@@ -1,3 +1,5 @@
 # README.md
 
-Please see <http://www.edu.gov.on.ca/eng/curriculum/> for the latest Ontario curriculum documents. 
+Source: <http://www.edu.gov.on.ca/eng/curriculum/> 
+
+See each subfolder for additional links and resources.

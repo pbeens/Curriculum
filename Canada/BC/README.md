@@ -12,4 +12,4 @@ See also:
 + <https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/glossary.pdf>
 + <https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/references.pdf>
 
-See each subfolder for additional links.
+See each subfolder for additional links and resources.
