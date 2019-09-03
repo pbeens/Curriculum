@@ -1,4 +1,4 @@
-# README.md
+# Saskatchewan Curriculum
 
 Source: <https://curriculum.gov.sk.ca>
 

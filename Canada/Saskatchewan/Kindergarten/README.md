@@ -1,4 +1,4 @@
-# README.md
+# Kindergarten
 
 Source: <https://www.curriculum.gov.sk.ca/webapps/moe-curriculum-BBLEARN/CurriculumHome?id=405>
 
