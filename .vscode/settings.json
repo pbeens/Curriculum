@@ -1,3 +1,6 @@
 {
-    "MarkdownPaste.path": "./images"
+    "MarkdownPaste.path": "./images",
+    "pasteImage.basePath": "${projectRoot}/images",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true
 }
