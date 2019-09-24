@@ -73,3 +73,5 @@ See also:
 * [Resources for Energy &amp; Mines 10, 20, 30](https://www.edonline.sk.ca/webapps/moe-curriculum-BBLEARN/FullResourceList?id=123)
 * [Resources for Forestry Studies 20, 30](https://www.edonline.sk.ca/webapps/moe-curriculum-BBLEARN/FullResourceList?id=128)
 * [Resources for Wildlife Management 10, 20, 30](https://www.edonline.sk.ca/webapps/moe-curriculum-BBLEARN/FullResourceList?id=144)
+
+See each subfolder for additional resources.
