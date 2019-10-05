@@ -8,6 +8,15 @@ Source: <https://www.edu.gov.mb.ca/k12/cur/index.html>
   * [Arts Education: Dance](https://www.edu.gov.mb.ca/k12/cur/arts/dance/index.html)
   * [Arts Education: Drama](https://www.edu.gov.mb.ca/k12/cur/arts/drama/index.html)
   * [Arts Education: Music](https://www.edu.gov.mb.ca/k12/cur/arts/music/index.html)
+    * [The Landscape of Music](https://www.edu.gov.mb.ca/k12/cur/arts/music/landscape.html)
+    * [The Nature of the Music Discipline](https://www.edu.gov.mb.ca/k12/cur/arts/music/nature.html)
+    * [Rationale for Music Education](https://www.edu.gov.mb.ca/k12/cur/arts/music/rationale.html)
+    * [The Music Framework Butterfly](https://www.edu.gov.mb.ca/k12/cur/arts/music/butterfly.html)
+    * [Administration and Implementation Guide for Grades 9 to 12 Arts Education](https://www.edu.gov.mb.ca/k12/cur/arts/implementation_9-12.html)
+    * [Framework of Outcomes](https://www.edu.gov.mb.ca/k12/cur/arts/music/framework.html)
+      * [Kindergarten to Grade 8](https://www.edu.gov.mb.ca/k12/cur/arts/music/framework_k-8.html)
+      * [Grades 9 to 12](https://www.edu.gov.mb.ca/k12/cur/arts/music/framework_9-12.html)
+    * [Grades 9 to 12 Music Curriculum Framework Overview - YouTube](https://www.youtube.com/embed/X9m3U1zLzow?rel=0&controls=1)
   * [Arts Education: Visual Arts](https://www.edu.gov.mb.ca/k12/cur/arts/visual/index.html)
     * [The Landscape of the Visual Arts](https://www.edu.gov.mb.ca/k12/cur/arts/visual/landscape.html)
     * [The Nature of the Visual Arts Discipline](https://www.edu.gov.mb.ca/k12/cur/arts/visual/nature.html)
@@ -17,7 +26,6 @@ Source: <https://www.edu.gov.mb.ca/k12/cur/index.html>
       * [Kindergarten to Grade 8](https://www.edu.gov.mb.ca/k12/cur/arts/visual/framework_k-8.html)
       * [Grades 9 to 12](https://www.edu.gov.mb.ca/k12/cur/arts/visual/framework_9-12.html)
     * [Implementation Resources](https://www.edu.gov.mb.ca/k12/cur/arts/visual/implementation.html)
-
 * [Career Development](https://www.edu.gov.mb.ca/k12/cur/cardev/index.html) | Links | FAQs
 * [Diversity Education: Belonging, Learning &amp; Growing](https://www.edu.gov.mb.ca/k12/diversity/index.html) | Links | FAQs
 * [Education for Sustainable Development](https://www.edu.gov.mb.ca/k12/esd/index.html) | Links | FAQs
