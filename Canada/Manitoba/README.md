@@ -7,18 +7,8 @@ Source: <https://www.edu.gov.mb.ca/k12/cur/index.html>
 * [Arts Education](https://www.edu.gov.mb.ca/k12/cur/arts/index.html) | [Links](https://www.edu.gov.mb.ca/k12/cur/arts/links.html) | [FAQs](https://www.edu.gov.mb.ca/k12/cur/arts/faq_9-12.html)
   * [Arts Education: Dance](https://www.edu.gov.mb.ca/k12/cur/arts/dance/index.html)
   * [Arts Education: Drama](https://www.edu.gov.mb.ca/k12/cur/arts/drama/index.html)
-
   * [Arts Education: Music](https://www.edu.gov.mb.ca/k12/cur/arts/music/index.html)
- 
   * [Arts Education: Visual Arts](https://www.edu.gov.mb.ca/k12/cur/arts/visual/index.html)
-    * [The Landscape of the Visual Arts](https://www.edu.gov.mb.ca/k12/cur/arts/visual/landscape.html)
-    * [The Nature of the Visual Arts Discipline](https://www.edu.gov.mb.ca/k12/cur/arts/visual/nature.html)
-    * [Rationale for Visual Arts Education](https://www.edu.gov.mb.ca/k12/cur/arts/visual/rationale.html)
-    * [The Visual Arts Framework Butterfly](https://www.edu.gov.mb.ca/k12/cur/arts/visual/butterfly.html)
-    * [Framework of Outcomes](https://www.edu.gov.mb.ca/k12/cur/arts/visual/framework.html)
-      * [Kindergarten to Grade 8](https://www.edu.gov.mb.ca/k12/cur/arts/visual/framework_k-8.html)
-      * [Grades 9 to 12](https://www.edu.gov.mb.ca/k12/cur/arts/visual/framework_9-12.html)
-    * [Implementation Resources](https://www.edu.gov.mb.ca/k12/cur/arts/visual/implementation.html)
 * [Career Development](https://www.edu.gov.mb.ca/k12/cur/cardev/index.html) | Links | FAQs
 * [Diversity Education: Belonging, Learning &amp; Growing](https://www.edu.gov.mb.ca/k12/diversity/index.html) | Links | FAQs
 * [Education for Sustainable Development](https://www.edu.gov.mb.ca/k12/esd/index.html) | Links | FAQs
