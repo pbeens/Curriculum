@@ -1,8 +1,6 @@
 # Music
 
 * [Arts Education: Music](https://www.edu.gov.mb.ca/k12/cur/arts/music/index.html)
-
-
 * [The Landscape of Music](https://www.edu.gov.mb.ca/k12/cur/arts/music/landscape.html)
 * [The Nature of the Music Discipline](https://www.edu.gov.mb.ca/k12/cur/arts/music/nature.html)
 * [Rationale for Music Education](https://www.edu.gov.mb.ca/k12/cur/arts/music/rationale.html)
@@ -17,3 +15,8 @@
 * [Grades 9 to 12 Music Curriculum Planner - YouTube](https://www.youtube.com/embed/vRMcxjON2zw?rel=0&controls=1)
 * [Grades 9 to 12 Music Course Design Tool - YouTube](https://www.youtube.com/embed/PpcQSAwCifY?rel=0&controls=1)
 * [Grades 9 to 12 Music Learning Design Tool - YouTube](https://www.youtube.com/embed/X-zD4AOZpt8?rel=0&controls=1)
+* [Celebrating Music in Manitoba Schools Month](https://www.edu.gov.mb.ca/k12/cur/arts/music/music_month_poster.html)
+* [Private Music Option](https://www.edu.gov.mb.ca/k12/cur/arts/music/pmo.html)
+* [Related Links](https://www.edu.gov.mb.ca/k12/cur/arts/music/resources.html)
+* [Glossary (Kindergarten to Grade 8)](https://www.edu.gov.mb.ca/k12/cur/arts/music/glossary.html)
+* [Contacts](https://www.edu.gov.mb.ca/k12/cur/arts/music/contact.html)
