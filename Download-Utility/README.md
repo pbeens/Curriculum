@@ -21,3 +21,13 @@ wget \
      --no-parent \
          https://www.edu.gov.mb.ca/k12/cur/index.html
 ```
+
+Another option that works is:
+
+ ```sh
+$ wget -e robots=off -r -np 'http://example.com/folder/'
+
+* -e robots=off causes it to ignore robots.txt for that domain
+* -r makes it recursive
+* -np = no parents, so it doesn't follow links up to the parent folder
+```
