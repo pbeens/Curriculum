@@ -1,8 +1,14 @@
-# README.md
+# Ontario
 
-Source: <http://www.edu.gov.on.ca/eng/curriculum/> (mostly, with the exception of [Archive.org](Archive.org) and [OTF](OTF))
+## Sources 
+- [Ontario Ministry of Education (Curriculum)](http://www.edu.gov.on.ca/eng/curriculum/)
+- [Archive.org](Archive.org)
+- [OTF](https://www.otffeo.on.ca/en/)
+- [QSpace: Queen's Scholarship & Digital Collections](https://qspace.library.queensu.ca/home)
 
 See each subfolder for additional links and resources.
+
+View the [Ontario folder](./).
 
 ## Latest Changes
 
