@@ -1,0 +1,87 @@
+Digital Technologies and Innovations in the Changing World
+GRADE 10, OPEN (ICD2O)
+OVERALL AND SPECIFIC EXPECTATIONS
+
+STRAND A: Computational Thinking and Making Connections
+Throughout this course, in connection with the learning in the other strands, students will:
+
+A1. Computational Thinking, Planning, and Purpose: apply computational thinking concepts and practices, and use various tools and processes to plan and develop computational artifacts for a wide variety of contexts, users, and purposes
+
+A1.1 apply computational thinking concepts and practices when planning and designing computational artifacts
+A1.2 use a variety of tools and processes to plan, design, and share algorithms and computational artifacts
+A1.3 develop computational artifacts for a variety of contexts and purposes that support the needs of diverse users and audiences
+
+A2. Digital Technology and Society: demonstrate an understanding of important social, cultural, economic, environmental, and ethical issues, as well as contributions and innovations involving diverse local and global communities, related to digital technology
+
+A2.1 investigate current social, cultural, economic, environmental, and ethical issues related to digital technology that have personal, local, and global impacts, taking various perspectives into account
+A2.2 analyze personal and societal safety and cybersecurity issues related to digital technology, and identify measures and technologies that can help mitigate related concerns for individuals and communities
+A2.3 investigate contributions to innovations in digital technology and computing by people from diverse local, Canadian, and global communities, including Indigenous communities in Canada and around the world
+A2.4 investigate how to identify and address bias involving digital technology
+A2.5 analyze accessibility issues involving digital technology, and identify measures that can improve accessibility
+
+A3. Applications, Careers, and Connections: demonstrate an understanding of real-world applications of digital technology and programming, including within various industries and careers
+
+A3.1 investigate how digital technology and programming skills can be used within a variety of disciplines in real-world applications
+A3.2 investigate ways in which various industries, including those that involve skilled trades, are changing as a result of digital technology and programming innovations
+A3.3 investigate various career options related to digital technology and programming, and ways to continue their learning in these areas
+
+
+STRAND B: Hardware, Software, and Innovations
+By the end of this course, students will:
+
+B1. Understanding Hardware and Software: demonstrate an understanding of the functions and features of the hardware and software they encounter in their everyday life
+
+B1.1 describe the functions and features of various core components of hardware associated with digital technologies they encounter in their everyday life
+B1.2 describe the functions and features of various connected devices associated with digital technologies they encounter in their everyday life
+B1.3 describe the functions of various types of software they encounter in their everyday life
+
+B2. Using Hardware and Software: demonstrate an understanding of various ways to use hardware, software, and file management, and of research practices to support their own use of digital technology
+
+B2.1 use file management techniques, including those related to local and cloud storage, to organize, edit, and share files
+B2.2 identify and use effective research practices and supports when learning to use new hardware or software
+B2.3 assess the hardware and software requirements for various users, contexts, and purposes in order to make recommendations for devices and programs
+
+B3. Cybersecurity and Data: demonstrate an understanding of safe and effective practices
+related to data and cybersecurity in various contexts
+
+B3.1 apply safe and effective data practices when using digital technology in various contexts
+B3.2 apply safe and effective security practices, including practices to protect their privacy, when using digital technology in various contexts
+
+B4. Innovations in Digital Technology: investigate current and emerging innovations in digital technology, including automation and artificial intelligence, and assess their benefits and limitations
+
+B4.1 investigate current innovations, including automation and artificial intelligence systems, and assess the impacts of these technologies on everyday life
+B4.2 investigate hardware and methods used to establish networks and connectivity, and assess the benefits and limitations of increased connectivity with reference to everyday life
+B4.3 investigate emerging innovations related to hardware and software and their possible benefits and limitations with reference to everyday life in the future
+
+
+STRAND C: Programming
+
+By the end of this course, students will:
+
+C1. Programming Concepts and Algorithms: explain fundamental programming concepts and algorithms
+
+C1.1 use appropriate terminology to describe programming concepts and algorithms
+C1.2 describe simple algorithms that are encountered in everyday situations
+C1.3 identify various types of data and explain how they are used within programs
+C1.4 determine the appropriate expressions and instructions to use in a programming statement, taking into account the order of operations
+C1.5 identify and explain situations in which conditional and repeating structures are required
+
+C2. Writing Programs: use fundamental programming concepts to write simple programs
+
+C2.1 use variables, constants, expressions, and assignment statements to store and manipulate numbers and text in a program
+C2.2 write programs that use and generate data involving various sources and formats
+C2.3 write programs that include single and nested conditional statements
+C2.4 write programs that include sequential, selection, and repeating events
+C2.5 write programs that include the use of Boolean operators, comparison operators, text operators, and arithmetic operators
+C2.6 interpret program errors and implement strategies to resolve them
+C2.7 write clear internal documentation and use coding standards to improve code readability
+
+C3. Modularity and Modification: demonstrate an understanding of program components and modules
+
+C3.1 analyze existing code to understand the components and outcomes of the code
+C3.2 modify an existing program, or components of a program, to enable it to complete a different task
+C3.3 write subprograms, and use existing subprograms, to complete program components
+C3.4 write programs that make use of external or add-on modules or libraries
+C3.5 explain the components of a computational artifact they have created, including considerations for reuse by others
+
+© King’s Printer for Ontario, 2023
