@@ -8,7 +8,7 @@ If you would like me to add any documents to this repository, please [email me](
 
 (newest at top)
 
-- Added Ontario [Kindergarten (2026)](<Canada/Ontario/Kindergarten/Kindergarten (2026).pdf>) | [Source](https://www.dcp.edu.gov.on.ca/en/curriculum/kindergarten)
+- Added Ontario [Kindergarten (2026)](<Canada/Ontario/Kindergarten/Kindergarten (2026).pdf>) | [Source](https://www.dcp.edu.gov.on.ca/en/curriculum/kindergarten) | [Resources](https://www.dcp.edu.gov.on.ca/en/curriculum/kindergarten/resources)
 - Added Ontario [Civics and Citizenship (CHV2O)](<Canada/Ontario/Canadian and World Studies_/Civics and Citizenship_Grade 10_Open (CHV2O) (2022).pdf>)
 - Added [Growing Success - The Kindergarten  Addendum](Canada/Ontario/Growing-Success/GSKindergartenAddendum2018.pdf)
 - Added Ontario [Growing Success](Canada/Ontario/Growing-Success/growSuccess.pdf)
